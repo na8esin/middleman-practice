@@ -5,5 +5,6 @@ RUN set -ex \
 apt-get install -y nodejs
 
 RUN gem install bundler
+RUN gem install middleman
 
 ENV HISTFILE=/usr/src/.bash_history
