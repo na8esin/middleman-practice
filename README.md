@@ -1,0 +1,1 @@
+middleman init -T slim

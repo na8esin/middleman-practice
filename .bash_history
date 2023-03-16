@@ -9,3 +9,7 @@ middleman init
 middleman init -h
 middleman init -T slim
 exit
+middleman init -T slim
+exit
+middleman init -T slim
+exit
