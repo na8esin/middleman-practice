@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  ruby:
+    build: .
+    working_dir: /usr/src/site
+    volumes:
+      - .:/usr/src:delegated
+    tty: true
