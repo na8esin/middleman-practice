@@ -90,6 +90,9 @@ GEM
     sassc (2.4.0)
       ffi (~> 1.9)
     servolux (0.13.0)
+    slim (5.1.0)
+      temple (~> 0.10.0)
+      tilt (>= 2.0.6, < 2.2)
     temple (0.10.0)
     thor (1.2.1)
     tilt (2.0.11)
@@ -108,6 +111,7 @@ PLATFORMS
 DEPENDENCIES
   middleman (~> 4.2)
   middleman-autoprefixer (~> 2.7)
+  slim (~> 5.1)
   tzinfo-data
   wdm (~> 0.1)
 
