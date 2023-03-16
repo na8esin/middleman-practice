@@ -103,6 +103,7 @@ GEM
 
 PLATFORMS
   aarch64-linux
+  arm64-darwin-21
 
 DEPENDENCIES
   middleman (~> 4.2)
@@ -111,4 +112,4 @@ DEPENDENCIES
   wdm (~> 0.1)
 
 BUNDLED WITH
-   2.4.8
+   2.4.1

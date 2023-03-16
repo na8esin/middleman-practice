@@ -3,6 +3,8 @@ services:
   ruby:
     build: .
     working_dir: /usr/src
+    ports:
+      - 4567:4567
     volumes:
       - .:/usr/src:delegated
     tty: true
