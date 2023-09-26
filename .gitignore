@@ -4,3 +4,4 @@
 .sass-cache
 build/
 .bash_history
+vendor/

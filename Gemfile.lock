@@ -109,8 +109,8 @@ PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
-  middleman (~> 4.2)
-  middleman-autoprefixer (~> 2.7)
+  middleman (~> 4)
+  middleman-autoprefixer (~> 2)
   slim (~> 5.1)
   tzinfo-data
   wdm (~> 0.1)
